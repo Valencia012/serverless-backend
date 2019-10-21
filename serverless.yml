@@ -23,6 +23,7 @@ provider:
   #environment:
   #  sampleEnvVar: ${env:SAMPLE_ENV_VAR}
   # hello 
+  # home 
 
 functions:
   hello:
